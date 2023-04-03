@@ -1,0 +1,11 @@
+package programsForCustomer;
+
+public class Methods {
+	
+	 public boolean checkPrime(int n){
+		 return true;
+		 
+		    
+		}  
+	
+}

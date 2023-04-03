@@ -1,0 +1,14 @@
+package workout;
+
+import java.util.Scanner;
+
+public class Main1 {
+
+	public static void main(String[] args) {
+		ProductCon productCon=new ProductCon(1,"printer","HP");
+		
+		productCon.display();
+
+	}
+
+}

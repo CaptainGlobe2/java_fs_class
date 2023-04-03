@@ -1,0 +1,19 @@
+package project1;
+
+public class fibbonocci {
+	public static void main(String[] args) {
+		int x=0;
+		int y=1;
+		int i,temp;
+		System.out.println("0");
+		System.out.println("1");
+		for(i=0;i<=500;i++) {
+			temp=x+y;
+			x=y;
+			y=temp;
+			
+			System.out.println(temp);
+		}
+		
+	}
+}

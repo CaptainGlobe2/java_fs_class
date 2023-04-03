@@ -1,0 +1,34 @@
+package StackUsingArray;
+
+public class Stack {
+	int[] s=new int[10];
+	int tos;
+	
+	Stack() {
+		tos=-1;
+	}
+	
+	void push(int p) {
+		if(tos==9) {
+			System.out.println("stack is full ");
+		}
+		else {
+			tos=tos+1;
+			s[tos]=p;
+		}
+	}
+	int pop() {
+		if(tos>=0) {
+			return s[tos--];
+		}
+		else {
+			System.out.println("stack is empty");
+			return -1;
+		}
+	}
+	void display() {
+		for(int i=0;i<s[9];i++) {
+			System.out.println(s[i]);
+		}
+	}
+}

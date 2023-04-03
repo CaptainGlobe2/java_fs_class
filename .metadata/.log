@@ -1,0 +1,857 @@
+!SESSION 2023-03-06 12:54:08.001 -----------------------------------------------
+eclipse.buildId=4.26.0.20221201-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-03-06 12:54:14.175
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-03-06 12:54:28.516
+!MESSAGE Logback config file: /home/salman/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.1.0.20221015-0744.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-03-06 12:54:30.783
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-03-06 12:54:30.783
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-03-06 12:54:30.783
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2023-03-07 08:45:04.796 -----------------------------------------------
+eclipse.buildId=4.26.0.20221201-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-03-07 08:45:11.915
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-03-07 08:45:24.067
+!MESSAGE Logback config file: /home/salman/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.1.0.20221015-0744.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-03-07 08:45:35.493
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-03-07 08:45:35.493
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-03-07 08:45:35.493
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2023-03-07 08:55:36.886
+!MESSAGE Connection to https://marketplace.eclipse.org/category/free-tagging/fileExtension_hello/api/p?client=org.eclipse.epp.mpc.core&os=linux&platform.version=4.26 failed on marketplace.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1524)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1381)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1009)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:1001)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:997)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.epp.mpc.ui 4 0 2023-03-07 08:55:37.093
+!MESSAGE File support discovery for hello failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: Cannot complete request to https://marketplace.eclipse.org/category/free-tagging/fileExtension_hello/api/p?client=org.eclipse.epp.mpc.core&os=linux&platform.version=4.26: Cannot resolve host
+
+This is most often caused by a problem with your internet connection. Please check your internet connection and retry.
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:195)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:501)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:85)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: Cannot resolve host
+
+This is most often caused by a problem with your internet connection. Please check your internet connection and retry.
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport.stream(HttpClientTransport.java:112)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:74)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:164)
+	... 12 more
+	Suppressed: org.eclipse.core.runtime.CoreException: Unknown Host: https://marketplace.eclipse.org/category/free-tagging/fileExtension_hello/api/p?client=org.eclipse.epp.mpc.core&os=linux&platform.version=4.26
+		at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:191)
+		at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:269)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+		at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:421)
+		at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:130)
+		at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:91)
+		... 13 more
+	Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+		at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+		at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1524)
+		at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1381)
+		at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305)
+		at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+		at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+		at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+		at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+		at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+		at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+		at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+		at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1009)
+		at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:1001)
+		at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:997)
+		at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:76)
+		... 1 more
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org: Temporary failure in name resolution
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1534)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1524)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1381)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:87)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:79)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.RequestTemplate.execute(RequestTemplate.java:45)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport.stream(HttpClientTransport.java:97)
+	... 14 more
+!SUBENTRY 1 org.eclipse.epp.mpc.core 4 0 2023-03-07 08:55:37.094
+!MESSAGE Cannot complete request to https://marketplace.eclipse.org/category/free-tagging/fileExtension_hello/api/p?client=org.eclipse.epp.mpc.core&os=linux&platform.version=4.26: Cannot resolve host
+
+This is most often caused by a problem with your internet connection. Please check your internet connection and retry.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Cannot resolve host
+
+This is most often caused by a problem with your internet connection. Please check your internet connection and retry.
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport.stream(HttpClientTransport.java:112)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:74)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:164)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:501)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:85)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+	Suppressed: org.eclipse.core.runtime.CoreException: Unknown Host: https://marketplace.eclipse.org/category/free-tagging/fileExtension_hello/api/p?client=org.eclipse.epp.mpc.core&os=linux&platform.version=4.26
+		at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:191)
+		at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:269)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+		at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:421)
+		at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:130)
+		at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:91)
+		... 13 more
+	Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+		at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+		at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1524)
+		at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1381)
+		at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305)
+		at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+		at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+		at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+		at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+		at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+		at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+		at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+		at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1009)
+		at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:1001)
+		at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:997)
+		at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:76)
+		... 1 more
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org: Temporary failure in name resolution
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1534)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1524)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1381)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:87)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:79)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.RequestTemplate.execute(RequestTemplate.java:45)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport.stream(HttpClientTransport.java:97)
+	... 14 more
+Contains: Cannot resolve host
+
+This is most often caused by a problem with your internet connection. Please check your internet connection and retry.
+java.net.UnknownHostException: marketplace.eclipse.org: Temporary failure in name resolution
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1534)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1524)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1381)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:87)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:79)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.RequestTemplate.execute(RequestTemplate.java:45)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport.stream(HttpClientTransport.java:97)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:74)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:164)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:501)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:85)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.epp.mpc.core 4 0 2023-03-07 08:55:37.095
+!MESSAGE Cannot resolve host
+
+This is most often caused by a problem with your internet connection. Please check your internet connection and retry.
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org: Temporary failure in name resolution
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1534)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1524)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1381)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:87)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:79)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.RequestTemplate.execute(RequestTemplate.java:45)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport.stream(HttpClientTransport.java:97)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:74)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:164)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:501)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:85)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 3 org.eclipse.epp.mpc.core 4 0 2023-03-07 08:55:37.096
+!MESSAGE Cannot resolve host
+
+This is most often caused by a problem with your internet connection. Please check your internet connection and retry.
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org: Temporary failure in name resolution
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:933)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1534)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1524)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1381)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1305)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:87)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:79)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.RequestTemplate.execute(RequestTemplate.java:45)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport.stream(HttpClientTransport.java:97)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:74)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:164)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:501)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:85)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2023-03-07 11:33:05.868 -----------------------------------------------
+eclipse.buildId=4.26.0.20221201-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-03-07 11:33:07.378
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-03-07 11:33:13.556
+!MESSAGE Logback config file: /home/salman/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.1.0.20221015-0744.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-03-07 11:33:16.044
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-03-07 11:33:16.044
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-03-07 11:33:16.044
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-03-07 20:15:20.739
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package project1;
+
+import java.util.Scanner;
+
+public class reverseAnumber {
+
+	public static void main(String[] args) {
+		Scanner sw= new Scanner(System.in); //System.in is a standard input stream.
+	    System.out.print("Enter a number: ");
+	    int n= sw.nextInt();
+	    while(n<0) {
+	    	n%10
+	    }
+
+	}
+
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3124)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3533)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3116)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:561)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2023-03-07 20:15:20.740
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3124)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3533)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3116)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:561)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2023-03-07 20:15:20.740
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3124)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3533)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3116)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:561)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-03-07 20:15:20.964
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package project1;
+
+import java.util.Scanner;
+
+public class reverseAnumber {
+
+	public static void main(String[] args) {
+		Scanner sw= new Scanner(System.in); //System.in is a standard input stream.
+	    System.out.print("Enter a number: ");
+	    int n= sw.nextInt();
+	    while(n<0) {
+	    	n%10
+	    }
+
+	}
+
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3124)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3533)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3116)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:344)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1272)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2023-03-07 20:15:20.966
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3124)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3533)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3116)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:344)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1272)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2023-03-07 20:15:20.966
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3124)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3533)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3116)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:344)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1272)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.debug.core 4 125 2023-03-07 21:33:06.913
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:168)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:281)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:343)
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:106)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.internalRead(OutputStreamMonitor.java:249)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:225)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+!SESSION 2023-03-09 09:08:00.963 -----------------------------------------------
+eclipse.buildId=4.26.0.20221201-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-03-09 09:08:04.743
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-03-09 09:08:13.396
+!MESSAGE Logback config file: /home/salman/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.1.0.20221015-0744.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-03-09 09:08:25.955
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-03-09 09:08:25.955
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-03-09 09:08:25.955
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)

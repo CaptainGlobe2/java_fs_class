@@ -1,0 +1,19 @@
+package project1;
+
+import java.util.Scanner;
+
+public class reverseAnumber {
+
+	public static void main(String[] args) {
+		int rev;
+		Scanner sw= new Scanner(System.in); //System.in is a standard input stream.
+	    System.out.print("Enter a number: ");
+	    int n= sw.nextInt();
+	    while(n<0) {
+	    	rev=(rev*10)n%10;
+	    	n=n/10;
+	    }
+
+	}
+
+}

@@ -1,0 +1,29 @@
+package workout;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Product product=new Product();
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter the product id ");
+		//long id=sc.nextLong();
+		product.setId(Long.parseLong(sc.nextLine()));
+		System.out.println("enter the product name ");
+		//Scanner sc1=new Scanner(System.in);
+		product.setProductName(sc.nextLine());
+		//String name =sc1.nextLine();
+		//Scanner sc2=new Scanner(System.in);
+		System.out.println("enter the supplier name ");
+		//String sname=sc2.nextLine();
+		product.setSupplierName(sc.nextLine());
+		
+		System.out.println("Product id is "+product.getId());
+		System.out.println("Product name is "+product.getProductName());
+		System.out.println("supplier name is "+product.getSupplierName());
+		
+
+	}
+
+}
